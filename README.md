@@ -44,8 +44,3 @@ Language and tools
 		/>
 	</a>
 </p>
-
-<!-- 
-Language and tools 
--->
-
