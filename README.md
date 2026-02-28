@@ -1,46 +1,52 @@
-<!--
-**colpshift/colpshift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm colpshift</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋 
-
-<!-- 
-Github Stats 
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colpshift&show_icons=true&theme=dracula)
-
-<!-- 
-Github Streak 
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=colpshift&show_icons=true&theme=dracula)](https://git.io/streak-stats)
-
-<!-- 
-Github Profile trophy 
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=colpshift&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 
-Language and tools 
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://git-scm.com/" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-			alt="git"
-			width="40"
-			height="40"
-		/>
-	</a>
+<p align="center">
+  <em>"Your most valuable skill isn't what you know. It's how quickly you learn what you don’t."</em>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently automating workflows and building robust system integrations.
+- 🌱 My focus includes **ServiceNow**, **Qualitor**, **Shell Scripting**, and **PowerShell**.
+- � I enjoy developing tooling to simplify complex administrative processes and enhance system reliability.
+- 💬 Ask me about: **ServiceNow development, Shell/Bash Automations, API Integrations, and Scripting**.
+
+<br/>
+
+### �️ Languages & Tools
+
+<p align="left">
+  <!-- Scripting and Programming -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <br/>
+  <br/>
+  <!-- Platforms and Dev Tools -->
+  <img src="https://img.shields.io/badge/ServiceNow-808080?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub Streak" />
+  <br/><br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=colpshift&theme=dracula&margin-w=15" alt="colpshift's Trophy" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Always%20learning,%20always%20improving&fontSize=20" width="100%" />
+</div>
