@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub stats" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=colpshift&show_icons=true&theme=dracula" alt="colpshift's GitHub Streak" />
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=colpshift&theme=dracula&margin-w=15" alt="colpshift's Trophy" />
+    <img src="https://github-profile-trophy-xi.vercel.app/?username=colpshift&theme=dracula&margin-w=15" alt="colpshift's Trophy" />
   </a>
 </div>
 
