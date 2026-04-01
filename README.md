@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=210&section=header&text=Marcos%20Colpani&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=Developer%20%26%20AI%20Engineer&descSize=21&descColor=bc8cff&fontAlignY=40&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=210&section=header&text=Marcos+Colpani&fontSize=54&fontColor=ffffff&desc=Developer+%26+AI+Engineer&descSize=21&descColor=bc8cff&fontAlignY=40&descAlignY=58" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Engineering+at+the+intersection+of+enterprise+%26+AI.;ServiceNow+%C3%97+Angular+%C3%97+Claude+Code+%E2%80%94+one+unified+workflow.;I+don%27t+just+use+AI.+I+build+with+it%2C+around+it%2C+through+it.;MCP+%C2%B7+A2A+%C2%B7+RAG+%C2%B7+Real+systems.+Real+impact.;The+model+is+the+tool.+The+engineer+is+the+edge.)](https://git.io/typing-svg)
 
@@ -59,6 +59,7 @@ My daily stack is **CachyOS Linux + Fish shell + VS Code + Claude Code**. The ID
 ### Ecosystem Map
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 mindmap
   root((colpshift))
     Enterprise Platform
