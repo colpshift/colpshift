@@ -59,33 +59,32 @@ My daily stack is **CachyOS Linux + Fish shell + VS Code + Claude Code**. The ID
 ### Ecosystem Map
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
-mindmap
-  root((colpshift))
-    Enterprise Platform
-      ServiceNow Yokohama
-        Flows and Subflows
-        Angular Service Portal
-        Business Rules
-        UI Builder
-      Qualitor ITSM
-        SQL Patches
-        Docker Services
-    AI Engineering
-      MCP Protocol
-      A2A Orchestration
-      RAG Pipelines
-      Generative AI
-      Claude Code
-    Dev Environment
-      CachyOS Linux
-      Fish Shell
-      VS Code
-      Git
-    Learning
-      ITIL and ITSM
-      Deep Learning
-      Agent SDKs
+graph TD
+    colpshift(["colpshift"])
+
+    colpshift --> ENT["Enterprise Platform"]
+    colpshift --> AI["AI Engineering"]
+    colpshift --> DEV["Dev Environment"]
+    colpshift --> LEARN["Learning"]
+
+    ENT --> SN["ServiceNow Yokohama"]
+    ENT --> Q["Qualitor ITSM"]
+    SN --> SN1["Flows and Subflows"]
+    SN --> SN2["Angular Portal"]
+    SN --> SN3["Business Rules"]
+
+    AI --> MCP["MCP Protocol"]
+    AI --> A2A["A2A Orchestration"]
+    AI --> RAG["RAG Pipelines"]
+    AI --> CC["Claude Code"]
+
+    DEV --> OS["CachyOS Linux"]
+    DEV --> SH["Fish Shell"]
+    DEV --> ED["VS Code"]
+
+    LEARN --> IT["ITIL and ITSM"]
+    LEARN --> DL["Deep Learning"]
+    LEARN --> AG["Agent SDKs"]
 ```
 
 ---
