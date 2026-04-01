@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=210&section=header&text=Marcos+Colpani&fontSize=54&fontColor=ffffff&desc=Developer+%C2%B7+AI+Engineer&descSize=21&descColor=bc8cff&fontAlignY=40&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1035,100:0d1117&height=210&section=header&text=Marcos+Colpani&fontSize=54&fontColor=ffffff&desc=Developer+%C2%B7+AI+Learner&descSize=21&descColor=bc8cff&fontAlignY=40&descAlignY=58" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Engineering+at+the+intersection+of+enterprise+%26+AI.;ServiceNow+%C3%97+Angular+%C3%97+Claude+Code+%E2%80%94+one+unified+workflow.;I+don%27t+just+use+AI.+I+build+with+it%2C+around+it%2C+through+it.;MCP+%C2%B7+A2A+%C2%B7+RAG+%C2%B7+Real+systems.+Real+impact.;The+model+is+the+tool.+The+engineer+is+the+edge.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=ServiceNow+developer+exploring+the+AI+frontier.;Learning+MCP+%C2%B7+A2A+%C2%B7+RAG+%C2%B7+Generative+AI+%C2%B7+Deep+Learning.;Your+most+valuable+skill+isn%27t+what+you+know...;...it%27s+how+fast+you+learn+what+you+don%27t.;Build+today.+Learn+always.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 I build enterprise integrations and automation on **ServiceNow** and **Angular** — flows, subflows, business rules, client scripts, and service portals that people actually rely on.
 
-On the AI side, I architect with **MCP (Model Context Protocol)**, **A2A**, **RAG pipelines**, and **Generative AI** — not as experiments, but as core parts of real engineering workflows.
+On the AI side, I'm actively learning **MCP (Model Context Protocol)**, **A2A**, **RAG pipelines**, **Generative AI**, and **Deep Learning** — going beyond prompts to understand how these systems actually work.
 
 My daily stack is **CachyOS Linux + Fish shell + VS Code + Claude Code**. The IDE is a tool; the AI is a force multiplier.
 
@@ -63,7 +63,7 @@ graph TD
     colpshift(["colpshift"])
 
     colpshift --> ENT["Enterprise Platform"]
-    colpshift --> AI["AI Engineering"]
+    colpshift --> AI["AI Learning"]
     colpshift --> DEV["Dev Environment"]
     colpshift --> LEARN["Learning"]
 
@@ -89,17 +89,18 @@ graph TD
 
 ---
 
-### AI-Native Engineering
+### AI Learning Journey
 
-Not just a consumer of AI tools — I build with them and around them.
+Actively learning AI — not just using tools, but understanding what's under the hood.
 
-- **MCP (Model Context Protocol)** — connecting AI models to live enterprise data and context
-- **A2A (Agent-to-Agent)** — orchestrating multi-agent workflows that actually coordinate
-- **RAG pipelines** — retrieval-augmented generation for enterprise knowledge bases
-- **Generative AI** — applied in production workflows, not isolated experiments
-- **Claude Code** — integrated into every non-trivial session as an active collaborator, not a search engine
+- **MCP (Model Context Protocol)** — how AI models connect to live data and external context
+- **A2A (Agent-to-Agent)** — multi-agent coordination and orchestration patterns
+- **RAG pipelines** — retrieval-augmented generation for knowledge-grounded AI responses
+- **Generative AI** — applied concepts: prompting, fine-tuning, evaluation, deployment
+- **Deep Learning** — fundamentals: neural networks, transformers, embeddings
+- **Claude Code** — daily collaborator, not a search engine — learning by building alongside it
 
-The practical target: **AI-augmented ServiceNow and Angular workflows that reduce manual toil without obscuring what's happening under the hood.**
+The goal: apply AI knowledge directly to **ServiceNow and Angular workflows** to understand what's possible and what's not.
 
 ---
 
@@ -149,6 +150,6 @@ The practical target: **AI-augmented ServiceNow and Angular workflows that reduc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:0d1117,100:1a1035&height=100&section=footer&text=The+model+is+the+tool.+The+engineer+is+the+edge.&fontSize=14&fontColor=bc8cff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:0d1117,100:1a1035&height=100&section=footer&text=Your+most+valuable+skill+isn%27t+what+you+know...+it%27s+how+fast+you+learn+what+you+don%27t.&fontSize=14&fontColor=bc8cff&fontAlignY=65" width="100%" />
 
 </div>
