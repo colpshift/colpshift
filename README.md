@@ -71,13 +71,13 @@ The practical target: AI-augmented ServiceNow and Angular workflows that reduce 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=colpshift&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="colpshift's GitHub stats" />
+<img src="https://gh-readme-profile.vercel.app/api?username=colpshift&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="colpshift's GitHub stats" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=colpshift&theme=dark&hide_border=true" height="165" alt="colpshift's GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colpshift&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://gh-readme-profile.vercel.app/api/top-langs/?username=colpshift&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
