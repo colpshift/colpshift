@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
 I build enterprise integrations and automation on **ServiceNow** and **Angular** — flows, subflows, business rules, client scripts, and service portals that people actually rely on.
 
@@ -31,7 +31,9 @@ On the AI side, I'm actively learning **MCP (Model Context Protocol)**, **A2A**,
 My daily stack is **CachyOS Linux + Fish shell + VS Code + Claude Code**. The IDE is a tool; the AI is a force multiplier.
 
 </td>
-<td width="40%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 **Now**
 
