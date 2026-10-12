@@ -33,7 +33,7 @@ My daily stack is **CachyOS Linux + Fish shell + VS Code + Claude Code**. The ID
 </td>
 <td width="40%" valign="top">
 
-#### Now
+**Now**
 
 - Deepening **ServiceNow Yokohama** — UI Builder, Angular Service Portal, advanced Flow Designer patterns
 - Building **AI agent integrations** using MCP and A2A on top of real enterprise workflows
