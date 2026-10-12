@@ -201,7 +201,7 @@ graph TD
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=colpshift&theme=tokyo-night&hide_border=true&area=true&area_color=5a67d8&color=bc8cff&line=58a6ff&point=ffffff" width="95%" alt="colpshift's activity graph" />
+<img src="https://ghchart.rshah.org/5a67d8/colpshift" width="95%" alt="colpshift's contribution chart" />
 
 <br/>
 
